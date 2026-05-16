@@ -1,0 +1,9 @@
+.container{
+    padding-bottom: 200px;
+}
+.card{
+    border: none;
+}
+.carousel-item{
+    padding: 10px 20px;
+}
